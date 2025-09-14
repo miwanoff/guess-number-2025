@@ -8,7 +8,7 @@ while (true) {
   //     continue;
   //   }
   if (isNaN(n)) {
-    alert("Bye!");
+    alert("Bye!!!");
     break;
   }
   // To DO: Add if (n < x) 
