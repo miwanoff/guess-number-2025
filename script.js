@@ -13,7 +13,7 @@ while (true) {
   }
   // To DO: Add if (n < x) 
   if (n > x) {
-    alert("Too big!");
+    alert("Too big!!!");
   }
   else if (n == x) {
     alert("You win!");
